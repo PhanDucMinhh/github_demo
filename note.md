@@ -1,0 +1,21 @@
+1. Term
+- Repository (Repo)
+- Branch
+- Local
+- Remote
+2. Commands
+- git init
+- git status
+- git add + tên file
+- git add .
+- git reset
+- git commit -m '(ghi chú)'
+- git log
+- git log --oneline
+- git branch + id (id của branch)
+- git branch
+- git branch -d (branch name)
+- git checkout -b (branch name)
+- git checkout (branch name)
+- git merge (branch name)
+- git push
